@@ -1,5 +1,6 @@
-# Compiled class file
-*.class
+# Ignore directory
+/.idea
+/out
 
 # Log file
 *.log
